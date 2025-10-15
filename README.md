@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
-  <a href="https://www.notion.so/https://www.notion.so/27e54f815bac80499deacc0603add591#27e54f815bac801281fcf931f6d089a8" target="_blank"></a>&nbsp
+  <a href="https://www.notion.so/https://www.notion.so/27e54f815bac80499deacc0603add591#27e54f815bac801281fcf931f6d089a8" target="_blank"></a>
+</img>
 </div>
 
 <!--내용 부분-->
