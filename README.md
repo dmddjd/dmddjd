@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
+  <br>
+  <a href="https://www.notion.so/27e54f815bac4999deacc0603add591" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
@@ -26,7 +30,12 @@ Here are some ideas to get you started:
   <a href="https://www.notion.so/27e54f815bac4999deacc0603add591" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </div>
+<hr>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
