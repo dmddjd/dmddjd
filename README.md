@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <br>
   <a href="https://www.notion.so/27e54f815bac4999deacc0603add591" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-  </a><a href="https://www.instagram.com/YOUR_INSTAGRAM_ID" target="_blank">
+  </a><a href="https://www.instagram.com/https://www.instagram.com/dmddjd_b/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
