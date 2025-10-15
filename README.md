@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
+
+  <a href="https://www.notion.so/https://www.notion.so/27e54f815bac80499deacc0603add591#27e54f815bac801281fcf931f6d089a8" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
+  </a>
 </div>
 
 <!--내용 부분-->
@@ -61,17 +65,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Draw.io-F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ERDCloud-2C2C32.svg?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
