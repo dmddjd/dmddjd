@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white" />
 </div>
 
-<h4 align="center">Database</h4>
+<!-- Database -->
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
