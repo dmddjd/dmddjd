@@ -1,20 +1,3 @@
-<!-- ## Hi there 👋-->
-
-<!--
-**dmddjd/dmddjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
@@ -23,6 +6,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/dmddjd_b/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
+  <br>
+  <a href="https://www.notion.so/27e54f815bac4999deacc0603add591" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+  </a><a href="https://www.instagram.com/YOUR_INSTAGRAM_ID" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </div>
