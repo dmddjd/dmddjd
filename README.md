@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://tulip-archer-96e.notion.site/27e54f815bac80499deacc0603add591?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
-  </a><n><n><n><n><n><n><n><n>
+  </a><span></span>
   <a href="https://www.instagram.com/dmddjd_b/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
