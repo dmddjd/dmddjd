@@ -1,14 +1,15 @@
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=150&section=header&text=dmddjd's%20GitHub&fontSize=42&fontColor=ffffff" />
-  <br>
-  <a href="https://tulip-archer-96e.notion.site/27e54f815bac80499deacc0603add591?source=copy_link" target="_blank">
+</div>
+<p align="center">
+  <a href="https://tulip-archer-96e.notion.site/27e54f815bac80499deacc0603add591?source=copy_link">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
   </a>&nbsp
-  <a href="https://www.instagram.com/dmddjd_b/" target="_blank">
+  <a href="https://www.instagram.com/dmddjd_b/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-</div>
+</p>
 
 <hr>
 
