@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
-<div>여기부터<div>
-<div align="center">
+<div><div>
+<h4 align="center">Fromt-End</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" />&nbsp
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
-<!-- 🌸 Back-End -->
+<!-- Back-End -->
 <h4 align="center">Back-End</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -64,12 +64,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white" />
 </div>
 
-<!-- 🌸 Database -->
+<!-- Database -->
 <h4 align="center">Database</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
-<div>여기까지</div>
+<div></div>
 
 <br>
 
