@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JSP-F7DF1E?style=for-the-badge&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Servlet-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
