@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/Servlet-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JPA-2962FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-2962FF?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </div>
 
 <!-- Database -->
