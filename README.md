@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https-img.shields.io/badge/JPA-2962FF?style=for-the-badge&logoColor=white" />
 </div>
 
 <!-- Back-End -->
